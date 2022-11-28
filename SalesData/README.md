@@ -1,6 +1,16 @@
 # Sales Data Exploration using SQL and Tableau
 
-# SQL
+## Table of Content
+- [Business Task](#business-task)
+- [SQL](#sql)
+- [Tableau](#tableau)
+
+***
+
+## Business Task
+Analyze sales dataset and generate various analytics and insights from customers' past purchase behavior.
+
+## SQL
 Inspecting Data
 ```sql
 SELECT *
@@ -183,7 +193,13 @@ ORDER BY product_codes DESC
 ![analysis9](https://user-images.githubusercontent.com/32184014/204180989-f9f70731-d15e-4306-9cb5-913415e37362.png)
 
 
-# Tableau
+## Tableau
 [Tableau Dashboard 1](https://public.tableau.com/app/profile/ivan.wei.ket.yap/viz/Sales_Dashboard_1_16695980836810/SalesDashboard1)
 
+![Sales Dashboard 1](https://user-images.githubusercontent.com/32184014/204191982-337642cf-bc40-412b-a2d4-ff811c03ce6f.png)
+
 [Tableau Dashboard 2](https://public.tableau.com/app/profile/ivan.wei.ket.yap/viz/Sales_Dashboard_2_16695981453170/SalesDashboard2)
+
+![Sales Dashboard 2](https://user-images.githubusercontent.com/32184014/204191986-e6832df0-36b9-46d0-a13b-a572e666b238.png)
+
+***
