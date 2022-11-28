@@ -183,7 +183,7 @@ ORDER BY product_codes DESC
 ![analysis9](https://user-images.githubusercontent.com/32184014/204180989-f9f70731-d15e-4306-9cb5-913415e37362.png)
 
 
-# Tableau Dashboard
+# Tableau
 [Tableau Dashboard 1](https://public.tableau.com/app/profile/ivan.wei.ket.yap/viz/Sales_Dashboard_1_16695980836810/SalesDashboard1)
 
 [Tableau Dashboard 2](https://public.tableau.com/app/profile/ivan.wei.ket.yap/viz/Sales_Dashboard_2_16695981453170/SalesDashboard2)
