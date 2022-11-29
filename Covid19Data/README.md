@@ -14,6 +14,8 @@ Analyze Covid-19 dataset in SQL to generate various insights and visualization t
 ## Data Set
 Covid-19 data from Feb 4 2020 to Nov 18 2022 from [Our World in Data](https://ourworldindata.org/covid-deaths).
 
+Separate the data set into two sets with corresponding information: covid_deaths and covid_vaccinations (file is too large to be uploaded to GitHub).
+
 ## SQL
 
 
