@@ -112,7 +112,8 @@ Madrid in Spain has the made the most sales followed by San Rafael in the USA
 
 
 Analysis 7 - What is the best product in a specific country?
-```sqlSELECT Country, City, SUM(Sales) AS Revenue
+```sql
+SELECT Country, City, SUM(Sales) AS Revenue
 SELECT COUNTRY, YEAR_ID, PRODUCTLINE, SUM(SALES) AS REVENUE
 FROM sales_data_sample
 GROUP BY  COUNTRY, YEAR_ID, PRODUCTLINE
