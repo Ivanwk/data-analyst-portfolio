@@ -155,8 +155,8 @@ FROM PopvsVac
 
 Using Temp Table to perform calculation on Partition By in previous query
 ```sql
-DROP TABLE IF EXISTS #PercentPopulationVaccinated
-CREATE TABLE #PercentPopulationVaccinated
+DROP TABLE IF EXISTS #perc_population_vaccinated
+CREATE TABLE #perc_population_vaccinated
 (
 Continent nvarchar(255),
 Location nvarchar(255),
@@ -166,7 +166,7 @@ New_Vaccinations numeric,
 Rolling_People_Vaccinated numeric
 )
 
-INSERT INTO #PercentPopulationVaccinated
+INSERT INTO #perc_population_vaccinated
 SELECT dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations, 
 	SUM(CONVERT(bigint, vac.new_vaccinations)) OVER (Partition by dea.location ORDER BY dea.location, dea.date) AS rolling_people_vaccinated
 FROM covid_deaths dea
@@ -176,7 +176,7 @@ JOIN covid_vaccinations vac
 WHERE dea.continent IS NOT NULL AND new_vaccinations IS NOT NULL
 
 SELECT *, (Rolling_People_Vaccinated/Population)*100 AS vaccination_perc
-FROM #PercentPopulationVaccinated
+FROM #perc_population_vaccinated
 ```
 ![Analysis7_temp_table](https://user-images.githubusercontent.com/32184014/204607063-00798d4c-4a77-4b93-ae08-6f81d701f727.png)
 
