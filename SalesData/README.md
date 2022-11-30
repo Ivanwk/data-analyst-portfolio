@@ -10,6 +10,7 @@
 ## Business Task
 Analyze sales dataset and generate various analytics and insights from customers' past purchase behavior.
 
+
 ## SQL
 Inspecting Data
 ```sql
@@ -202,5 +203,6 @@ ORDER BY product_codes DESC
 [Tableau Dashboard 2](https://public.tableau.com/app/profile/ivan.wei.ket.yap/viz/Sales_Dashboard_2_16695981453170/SalesDashboard2)
 
 ![Sales Dashboard 2](https://user-images.githubusercontent.com/32184014/204191986-e6832df0-36b9-46d0-a13b-a572e666b238.png)
+
 
 ***
