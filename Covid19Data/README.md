@@ -8,6 +8,7 @@
 
 ***
 
+
 ## Business Task
 Analyze Covid-19 dataset in SQL to generate various insights and visualization the data using Tableau.
 
