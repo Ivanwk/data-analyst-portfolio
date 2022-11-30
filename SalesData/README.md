@@ -1,5 +1,6 @@
 # Sales Data Exploration using SQL and Tableau
 
+
 ## Table of Content
 - [Business Task](#business-task)
 - [SQL](#sql)
