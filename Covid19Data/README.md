@@ -6,8 +6,6 @@
 - [SQL](#sql)
 - [Tableau](#tableau)
 
-***
-
 
 ## Business Task
 Analyze Covid-19 dataset in SQL to generate various insights and visualization the data using Tableau.
@@ -188,6 +186,3 @@ FROM #perc_population_vaccinated
 [Covid-19 Dashboard](https://public.tableau.com/app/profile/ivan.wei.ket.yap/viz/CovidDashboard2019-2022_16690006558760/Dashboard1)
 
 ![Covid-19 Dashboard](https://user-images.githubusercontent.com/32184014/204609180-24f6c751-39ee-4ace-9bed-851c4b24947d.png)
-
-
-***
