@@ -1,5 +1,5 @@
 # 8 Week SQL Challenge
-This repository contains the solution for the 8 case studies in **[#8WeekSQLChallenge](https://8weeksqlchallenge.com)** provided by **Data With Danny**.
+This repository contains the solution for the 8 case studies in **[#8WeekSQLChallenge](https://8weeksqlchallenge.com)** created and provided by **Data With Danny**.
 
 ## Case Studies
 - [Case Study #1: Danny's Diner](https://github.com/Ivanwk/data-analyst-portfolio/tree/main/8WeekSQLChallenge/Case%20Study%20%231%20-%20Danny's%20Diner)
