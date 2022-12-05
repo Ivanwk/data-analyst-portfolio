@@ -14,4 +14,4 @@ Based on the dataset, we are interested to know:
 4. Which actor is associated with higher popularity and revenue profit?
 5. Which year produced movies with the highest grossing revenue?
 
-View the file [here](https://github.com/Ivanwk/data-analyst-portfolio/blob/main/TMDBMovieAnalysis/TMDB%20Movie%20Analysis.ipynb)
+View the file [here](https://github.com/Ivanwk/data-analyst-portfolio/blob/main/TMDBMovieAnalysis/TMDB%20Movie%20Analysis.ipynb).
