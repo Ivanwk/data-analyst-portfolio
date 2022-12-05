@@ -13,3 +13,4 @@ Welcome to my portfolio where I provide a walkthrough to all of my projects rela
   - [Case Study #6: Clique Bait](https://github.com/Ivanwk/data-analyst-portfolio/tree/main/8WeekSQLChallenge/Case%20Study%20%236%20-%20Clique%20Bait)
   - [Case Study #7: Balanced Tree Clothing Co.](https://github.com/Ivanwk/data-analyst-portfolio/tree/main/8WeekSQLChallenge/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co.)
   - [Case Study #8: Fresh Segments](https://github.com/Ivanwk/data-analyst-portfolio/tree/main/8WeekSQLChallenge/Case%20Study%20%238%20-%20Fresh%20Segments)
+- [TMDB Moive Analysis](TMDBMoiveAnalysis)
