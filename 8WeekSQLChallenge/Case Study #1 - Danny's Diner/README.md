@@ -25,9 +25,9 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 Danny has shared with you 3 key datasets for this case study:
-- sales: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
-- menu: The menu table maps the product_id to the actual product_name and price of each menu item.
-- members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+- **sales:** The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+- **menu:** The menu table maps the product_id to the actual product_name and price of each menu item.
+- **members:** The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 
 ## Entity Relationship Diagram
